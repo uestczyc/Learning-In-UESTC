@@ -25,7 +25,7 @@
 
 我希望只要是前人走过的弯路，后人就不必再走。这是我的信念，也是我建立这个项目的原因。
 
-——（引自 [浙江大学课程攻略共享计划](浙江大学课程攻略共享计划）)
+——（引自 [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)）
 
 <h2 align="center" style="color:lightgreen" id="01">01 声明</h2>
 
